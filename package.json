@@ -1,0 +1,24 @@
+{
+  "name": "babylon-walker",
+  "version": "0.0.1",
+  "description": "a ast walker used with babylon, JSX support.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IAIAE/babylon-walker.git"
+  },
+  "keywords": [
+    "ast",
+    "babylon",
+    "walker"
+  ],
+  "author": "IAIAE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IAIAE/babylon-walker/issues"
+  },
+  "homepage": "https://github.com/IAIAE/babylon-walker#readme"
+}
